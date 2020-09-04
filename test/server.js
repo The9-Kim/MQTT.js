@@ -1,6 +1,6 @@
 'use strict'
 
-var net = require('net')
+var net = nw.require('net')
 var tls = require('tls')
 var Connection = require('mqtt-connection')
 
